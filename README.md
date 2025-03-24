@@ -5,5 +5,5 @@
 
 ## Variadic templates
 
-- [Example](./variadic_templates/stringJoin.cpp) - creating `stringJoin` function using variadic templates;
 - [Example](./variadic_templates/print.cpp) - creating `print` function using variadic templates;
+- [Example](./variadic_templates/printf.cpp) - creating `printf` function using variadic templates;
